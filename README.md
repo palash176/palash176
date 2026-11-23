@@ -34,14 +34,13 @@ New York City, NY · B.S. Computer Science & Data Science, UW–Madison
 
 ### Publications & Patents
 
-* **Goyal, K., Dixit, R. S., Choudhary, S. L., & Goyal, P.** (2026). *Consciousness-induced AI for decision-making in the fast-moving consumer goods sector: a systematic literature review.* **Journal of Business Analytics**.
-* **Goyal, K., Goyal, P., & Goyal, A. V.** (2025). *Non-invasive EEG signal processing pipeline for Sāṅkhya Triguṇa cognitive modeling.* **Indian Patent App 202511038630 A** & Live Demo at **MBCC, IIT Mandi**.
-* **Goyal, K., Goyal, A. V., & Goyal, P.** (2024). *Raw EEG computational extraction & emotion classification (QDA, KNN, SVM).* **The Science of Consciousness**, Tucson, AZ.
-* **Goyal, P.** (2023). *End-to-End Multimodal Machine Learning Pipeline for Speech-to-Video Translation.* **Journal of Undergraduate Science and Technology (JUST)** *(First Author)*.
-* **Agrawala, P., Goyal, K., & Goyal, P.** (2023). *Decentralized credit ledger mechanism for large-scale atmospheric water harvesting.* **Thinking for Our Planet** (Gov. of India).
-* **Kumar, L., Goyal, P., Malik, K., et al.** (2021). *Using Machine Learning, Image Processing and Neural Networks to Sense Bullying in K-12 Schools: Enhanced.* **Springer LNNS (SSIC 2021)**.
-* **Hasnain, S., Goyal, P., & Kumar, R.** (2021). *Creativity in Machines: Music Composition Using Artificial Intelligence that Passes Lovelace 2.0 Test (PALASH 1.0).* **Springer ICCT**.
-
+- **Goyal, K., Dixit, R. S., Choudhary, S. L., & Goyal, P.** (2026). [*Consciousness-induced AI for decision-making in the fast-moving consumer goods sector: a systematic literature review.*](https://doi.org/10.1080/2573234X.2026.2617555) **Journal of Business Analytics**.
+- **Goyal, K., Goyal, P., & Goyal, A. V.** (2025). [*Non-invasive EEG signal processing pipeline for Sāṅkhya Triguṇa cognitive modeling.*](https://client2021.nsllegal.com/Public/JPatent/PJ_23May2025.pdf) **Indian Patent App 202511038630 A** & Live Demo at **MBCC, IIT Mandi**.
+- **Goyal, K., Goyal, A. V., & Goyal, P.** (2024). [*Raw EEG computational extraction & emotion classification (QDA, KNN, SVM).*](https://consciousness.arizona.edu/sites/consciousness.arizona.edu/files/2024-03/3-25c%20TSC%20Program-Abstracts.pdf) **The Science of Consciousness**, Tucson, AZ.
+- **Goyal, P.** (2023). *End-to-End Multimodal Machine Learning Pipeline for Speech-to-Video Translation.* **Journal of Undergraduate Science and Technology (JUST) Fall 2022** *(First Author)*. https://www.drive.google.com/file/d/1FY68lMYMnO8qzipdNSl1VKp9obB5nKu3/view?usp=sharing 
+- **Agrawala, P., Goyal, K., & Goyal, P.** (2023). [*Decentralized credit ledger mechanism for large-scale atmospheric water harvesting.*](https://www.niti.gov.in/sites/default/files/2023-06/Thinking-For-Our-Planet-75-Ideas-to-Promote-LiFE.pdf) **Thinking for Our Planet** (Gov. of India).
+- **Kumar, L., Goyal, P., Malik, K., et al.** (2021). [*Using Machine Learning, Image Processing and Neural Networks to Sense Bullying in K-12 Schools: Enhanced.*](https://doi.org/10.1007/978-981-16-2641-8) **Springer LNNS (SSIC 2021)**.
+- **Hasnain, S., Goyal, P., & Kumar, R.** (2021). [*Creativity in Machines: Music Composition Using Artificial Intelligence that Passes Lovelace 2.0 Test (PALASH 1.0).*](https://doi.org/10.1007/978-981-16-3246-4_26) **Springer ICCT**.
 ---
 
 ### Experience & Education

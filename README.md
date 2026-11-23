@@ -2,7 +2,7 @@
 
 # Palash Goyal
 
-**Software Engineer II @ JPMorgan Chase | Applied AI & Systems Researcher | Pianist**  
+**Software Engineer II @ JPMorgan Chase | Applied AI & Platform Engineer | Pianist**  
 New York City, NY · B.S. Computer Science & Data Science, UW–Madison
 
 [![Email](https://img.shields.io/badge/Email-palashgoyal176%40gmail.com-2B3137?style=flat-square&logo=gmail&logoColor=white)](mailto:palashgoyal176@gmail.com)
